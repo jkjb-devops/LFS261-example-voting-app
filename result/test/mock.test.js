@@ -38,3 +38,8 @@ describe('mock test 6', () => {
   });
 });
 
+describe('mock test 7JB', () => {
+  it('unit test 7JB', () => {
+    expect(true).to.be.true;
+  });
+});
